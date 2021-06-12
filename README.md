@@ -17,3 +17,6 @@ Now, to run clients, you need to open a new command line window in the project f
 run `python client.py`. To connect with server, enter your username and server address which
 will appear in server window. For example: `10.0.0.100:5050`. 5050 is a port defined in config.py.
 If it won't work, change `SERVER` variable in config.py to your own computer private ip address.
+
+![Example chat window](https://github.com/makubas/python-socket-chat/blob/master/example_chat_windows.png?raw=true)
+![Example server console](https://github.com/makubas/python-socket-chat/blob/master/example_server_console.png?raw=true)
